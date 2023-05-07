@@ -1,13 +1,20 @@
 {
   "files": {
-    "main.css": "/react-payments/static/css/main.2f0b82a6.css",
-    "main.js": "/react-payments/static/js/main.ddfa4d80.js",
+    "main.css": "/react-payments/static/css/main.a08b0d98.css",
+    "main.js": "/react-payments/static/js/main.c15893fd.js",
+    "static/media/MyLotteLight.ttf": "/react-payments/static/media/MyLotteLight.c4d5ef6fdc24192948a6.ttf",
+    "static/media/Hana2-Regular.ttf": "/react-payments/static/media/Hana2-Regular.23a89a3a895c870d419b.ttf",
+    "static/media/YoonGothic320.ttf": "/react-payments/static/media/YoonGothic320.ce7278c3c9c9b86a9c6b.ttf",
+    "static/media/KBFGDisplayM.otf": "/react-payments/static/media/KBFGDisplayM.fd64b88539d36d587a23.otf",
+    "static/media/BCcardL.ttf": "/react-payments/static/media/BCcardL.50b8a2fa64ffa03cd008.ttf",
+    "static/media/fontYouandiModernTR.ttf": "/react-payments/static/media/fontYouandiModernTR.b662e7e829681dd0ec9d.ttf",
+    "static/media/WooridaumR.otf": "/react-payments/static/media/WooridaumR.5cd21ce563b4df1f720e.otf",
     "index.html": "/react-payments/index.html",
-    "main.2f0b82a6.css.map": "/react-payments/static/css/main.2f0b82a6.css.map",
-    "main.ddfa4d80.js.map": "/react-payments/static/js/main.ddfa4d80.js.map"
+    "main.a08b0d98.css.map": "/react-payments/static/css/main.a08b0d98.css.map",
+    "main.c15893fd.js.map": "/react-payments/static/js/main.c15893fd.js.map"
   },
   "entrypoints": [
-    "static/css/main.2f0b82a6.css",
-    "static/js/main.ddfa4d80.js"
+    "static/css/main.a08b0d98.css",
+    "static/js/main.c15893fd.js"
   ]
 }
